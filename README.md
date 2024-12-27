@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error involving type mismatches. Specifically, it shows how attempting to pass an array to a function expecting a string results in a compilation error. The solution demonstrates how to correctly handle this by either modifying the function signature or adjusting the data passed to the function.
